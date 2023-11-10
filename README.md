@@ -91,6 +91,7 @@
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
+
 - `MainActivity.java`
 ```
 package com.example.fibonanccisequence;
@@ -210,6 +211,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+
 - `color.xml`
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -236,3 +238,6 @@ public class MainActivity extends AppCompatActivity {
     <string name="Restart">Restart</string>
 </resources>
 ```
+
+- Hasilnya
+[Imgur-1](https://i.imgur.com/vmSSxfo.jpg)
