@@ -239,7 +239,7 @@ public class MainActivity extends AppCompatActivity {
 </resources>
 ```
 
-- Hasilnya
+- - - - - - - - - - Hasilnya - - - - - - - - - -
 ![Imgur-1](https://i.imgur.com/vmSSxfo.jpg)
 
 ![Imgur-2](https://i.imgur.com/wXTdejK.jpg)
