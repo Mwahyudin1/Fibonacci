@@ -241,6 +241,9 @@ public class MainActivity extends AppCompatActivity {
 
 - Hasilnya
 ![Imgur-1](https://i.imgur.com/vmSSxfo.jpg)
+
 ![Imgur-2](https://i.imgur.com/wXTdejK.jpg)
+
 - Jika angka melebihi limi maka akan muncul pop-up
+
 ![Imgur](https://i.imgur.com/0DGCih8.jpg)
